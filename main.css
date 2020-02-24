@@ -38,11 +38,13 @@ h2{
 
 #main_title{
     font-weight: 900;
+    font-size: 4em;
     margin: 0;
 }
 
 #main_author{
     font-weight: 200;
+    font-size: 1.4em;
     font-style: italic;
     margin: 0;
 }
@@ -61,8 +63,9 @@ h2{
 }
 
 .text_pictures{
-    width: 100%;
+    max-width: 100%;
 }
+
 .moby_dick{
     background-color: #f0f0f0;
 }
